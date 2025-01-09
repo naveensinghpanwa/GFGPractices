@@ -5,7 +5,7 @@
 
  */
 
-public class L04_InversionInArr {
+public class L_04_InversionInArr {
     public static void main(String[] args) {
         int [] a = {2, 4, 1, 3, 5};
         System.out.println(countInv(a, 0, a.length-1));
