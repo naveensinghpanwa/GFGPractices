@@ -1,4 +1,4 @@
-public class L_02_IntersectionOfTwoArrays {
+public class L_02_IntersectionOfTwoSortedArrays {
     public static void main(String[] args) {
         int a[] = {1, 1, 3, 3, 3};
         int b[] = {1, 1, 1, 1, 3, 5, 7};
