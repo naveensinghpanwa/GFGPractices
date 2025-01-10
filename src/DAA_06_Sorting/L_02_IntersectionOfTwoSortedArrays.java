@@ -1,3 +1,5 @@
+package DAA_06_Sorting;
+
 public class L_02_IntersectionOfTwoSortedArrays {
     public static void main(String[] args) {
         int a[] = {1, 1, 3, 3, 3};

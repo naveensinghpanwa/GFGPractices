@@ -1,4 +1,4 @@
-
+package DAA_06_Sorting;
 /*
     A pair arr[i] and arr[j] forms an inversion when i < j and arr[i] > arr[j], it is similar to the
     merge method except when we are copying values from b to k then we have to calculate.
